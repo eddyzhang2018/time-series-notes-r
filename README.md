@@ -1,2 +1,4 @@
-# time-series-notes-r
-My notes about time series analysis in R
+# Notes on Time Series Analysis with R
+1. BOOKS or Online Materials
+[Forecasting: Principle and Practice](https://otexts.com/fpp2/)
+
